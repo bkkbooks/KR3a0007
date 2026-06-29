@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3a0007/WYG/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 説苑
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:50:02.004882'
+  source:
+    repository: kanripo
+    path: KR3a0007/KR3a0007_019.txt
+hash: sha256:1c0db8e5a51966d0e1f2cfab48f6ac04dffb0dd178d5b75cd43902132e7c6c08
